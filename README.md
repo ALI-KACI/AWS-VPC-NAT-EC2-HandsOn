@@ -37,3 +37,6 @@ This hands-on lab demonstrates AWS networking fundamentals:
 - **Public Instance**: Had internet access (`yum update` worked)
 - **Private Instance**: Initially no internet, but worked after NAT Gateway
 
+## 📚 References  
+- (https://www.whizlabs.com/)  
+- (https://www.whizlabs.com/labs/creating-nat-gateways-in-aws/)
