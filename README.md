@@ -1,5 +1,7 @@
 # AWS-VPC-NAT-EC2-HandsOn
 Use NAT Gateway to enable internet access for instances in a private subnet within Amazon Web Services (AWS)
+## Architecture
+![VPC-NAT-EC2](https://github.com/user-attachments/assets/764b931c-e2f5-45ce-8c5c-a357956b4f76)
 
 ## **Project Overview**
 This hands-on lab demonstrates AWS networking fundamentals:
